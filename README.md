@@ -16,3 +16,8 @@ numpy_tips (directory)
 Tutorial | Cohort Analysis
 --------------------------
 cohort_analysis (directory)
+
+
+Tutorial | Decorators
+---------------------
+decorators.ipynb
