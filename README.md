@@ -1,23 +1,19 @@
 MOCK-Interviews
---------------
-Total: three tutorials
+---------------
+Total: four tutorials
 
 
-Tutorial | Gradient Descent
----------------------------
-gradient_descent.ipynb
+[Tutorial | Gradient Descent](https://github.com/sobolevdaniil/tutorials/blob/main/gradient_descent.ipynb)
 
 
-Tutorial | Numpy Arrays Slicing
-------------------------------
-numpy_tips (directory)
+[Tutorial | Numpy Arrays 
+Slicing](https://github.com/sobolevdaniil/tutorials/blob/main/numpy_tips/numpy_tips.ipynb)
 
 
-Tutorial | Cohort Analysis
---------------------------
-cohort_analysis (directory)
+[Tutorial | Cohort 
+Analysis](https://github.com/sobolevdaniil/tutorials/blob/main/cohort_analysis/cohort_analysis.ipynb)
 
 
-Tutorial | Decorators
----------------------
-decorators.ipynb
+[Tutorial | 
+Decorators](https://github.com/sobolevdaniil/tutorials/blob/main/decorators.ipynb)
+
