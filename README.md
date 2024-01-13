@@ -1,6 +1,6 @@
 MOCK-Interviews
 --------------
-Total: two tutorials
+Total: three tutorials
 
 
 Tutorial | Gradient Descent
@@ -8,6 +8,11 @@ Tutorial | Gradient Descent
 gradient_descent.ipynb
 
 
-Tutrial | Numpy Arrays Slicing
+Tutorial | Numpy Arrays Slicing
 ------------------------------
 numpy_tips (directory)
+
+
+Tutorial | Cohort Analysis
+--------------------------
+cohort_analysis (directory)
