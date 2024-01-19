@@ -17,3 +17,9 @@ Analysis](https://github.com/sobolevdaniil/tutorials/blob/main/cohort_analysis/c
 [Tutorial | 
 Decorators](https://github.com/sobolevdaniil/tutorials/blob/main/decorators.ipynb)
 
+
+IN PLANS:
+[Tutorial | ML-Metrics](https://github.com/sobolevdaniil/tutorials/blob/main/basic_metrics/basic_metrics.ipynb)
+[Tutorial | Basic Time Series](https://github.com/sobolevdaniil/tutorials/blob/main/basic_time_series.ipynb)
+[Tutorial | Linear Programming and Relaxation](https://github.com/sobolevdaniil/tutorials/blob/main/relax.ipynb)
+{tutorial | Basic Sort Functions](https://github.com/sobolevdaniil/tutorials/blob/main/sort_functions.ipynb)
